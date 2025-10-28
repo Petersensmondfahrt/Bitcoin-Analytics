@@ -42,3 +42,9 @@ o	The 10-year Treasury Yield chart shows the inverse relationship between yields
 o	The Google Trends map connects spikes in Bitcoin’s popularity to bull market tops — showing how retail interest lags institutional flows but reinforces late-stage exuberance.
 In short: Bitcoin reflects global liquidity, monetary policy, and investor psychology — not isolation.
 
+# Data Sources
+
+Google Trends
+Coinmarketcap data
+Fed data
+
